@@ -3,7 +3,7 @@ Hi 👋, I'm Daksh Chikara
 </h1>
 
 <h3 align="center">
-AI Engineer • MERN Full-Stack Developer • Java DSA Enthusiast
+AI + MERN Full-Stack Developer • DSA in JAVA
 </h3>
 
 <p align="center">
@@ -54,6 +54,7 @@ Become an AI Software Engineer building intelligent products used by millions.
 
 ### 🧠 Core Computer Science
 `Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
+
 ---
 
 # 🚀 Featured Production Projects
