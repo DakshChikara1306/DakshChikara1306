@@ -1,56 +1,250 @@
-<h-align align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,5,8,12&height=180&section=header&text=Daksh%20Chikara&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38" width="100%" />
-</h-align>
+<h1 align="center">
+Hi 👋, I'm Daksh Chikara
+</h1>
 
-<h3 align="center">AI & MERN Full-Stack Developer | B.Tech CSE (AI & ML) Student</h3>
+<h3 align="center">
+AI Engineer • MERN Full-Stack Developer • Java DSA Enthusiast
+</h3>
 
 <p align="center">
-  <a href="mailto:dakshchikara35@gmail.com"><img src="https://img.shields.io/badge/Email-dakshchikara35@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/daksh-chikara/"><img src="https://img.shields.io/badge/LinkedIn-Daksh_Chikara-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/DakshChikara"><img src="https://img.shields.io/badge/GitHub-DakshChikara-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+Building production-ready AI-powered web applications with scalable backend architectures.
+</p>
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Daksh%20Chikara&fontAlign=50&fontAlignY=40&fontSize=55&animation=fadeIn"/>
 </p>
 
 ---
 
-### 👨‍💻 About Me
-- 🚀 **Full-Stack & AI Engineer:** Specializing in building scalable web architectures using the **MERN Stack** integrated with advanced AI capabilities (**Google Gemini API & Groq API**).
-- 🎓 **Education:** B.Tech Computer Science (AI & ML) at **MIET** (2025–2029) | **SGPA: 9.14**
-- 🧠 **Problem Solver:** Solved **220+ DSA problems** across LeetCode & GFG with a strong foundation in core computer science principles (OOPs, DBMS, Operating Systems, Computer Networks).
-- 💼 **Experience:** Ex-Intern at **CodeAlpha**.
+# 🚀 About Me
+
+💻 AI & MERN Full-Stack Developer
+
+🎓 B.Tech CSE (AI & ML) @ Meerut Institute of Engineering & Technology
+
+📈 Current SGPA: **9.14**
+
+🧠 Solved **220+ DSA Problems** across LeetCode & GeeksforGeeks
+
+🏆 Ex Software Development Intern @ CodeAlpha
+
+🤖 Passionate about AI Integration, Backend Engineering and Full Stack Development.
+
+🎯 Goal:
+Become an AI Software Engineer building intelligent products used by millions.
 
 ---
 
-### 🛠️ Tech Stack & Expertise
+# 🛠 Tech Stack
 
-| Category | Technologies & Tools |
-| :--- | :--- |
-| **Languages** | Java, JavaScript, Python, C |
-| **Frontend** | React.js, Redux Toolkit, Tailwind CSS, Framer Motion, HTML5, CSS3, Recharts |
-| **Backend** | Node.js, Express.js, REST APIs, AI Integration (Gemini & Groq APIs), Payment Gateways (Stripe & Razorpay) |
-| **Databases & Auth** | MongoDB, Mongoose ODM, JWT Authentication, Firebase Auth, HTTP-Only Cookies |
-| **DevOps & Tools** | Git, GitHub, Vercel, Docker, Kubernetes, CI/CD Pipelines, Postman |
+### Languages
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=java,js,python,c"/>
+</p>
 
-### 🚀 Featured Production Projects
+### Frontend
 
-#### 1. Note_Mind.IO — Full-Stack AI SaaS Platform
-* **Overview:** Architected a full-stack AI SaaS platform powered by **Gemini API** that generates structured study materials, notes, revision summaries, and interactive diagrams.
-* **Key Features:** Integrated **Stripe-based subscription & credit management**, secure JWT/Firebase authentication, and dynamic data visualization with Recharts.
-* **Links:** [Live Demo](https://notemind-io.vercel.app) | [GitHub Repository](https://github.com/DakshChikara) *(Update with direct repo link)*
+<p>
+<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css"/>
+</p>
 
-#### 2. CogniPrep.AI — Full-Stack AI Mock Interview Platform
-* **Overview:** Developed an intelligent mock interview platform featuring a real-time conversational **AI interview engine** using Speech Recognition and Synthesis APIs.
-* **Key Features:** Automated candidate skill analysis, credit-based access control with **Razorpay**, performance analytics, and downloadable PDF reports.
-* **Links:** [Live Demo](https://cogniprep-ai.vercel.app) | [GitHub Repository](https://github.com/DakshChikara) *(Update with direct repo link)*
+Framer Motion • Recharts
 
 ---
 
-### 📊 GitHub Stats & Achievements
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express"/>
+</p>
+
+REST APIs
+
+Google Gemini API
+
+Groq API
+
+Stripe
+
+Razorpay
+
+---
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
+</p>
+
+JWT Authentication
+
+HTTP Only Cookies
+
+Mongoose ODM
+
+---
+
+### DevOps
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vercel"/>
+</p>
+
+CI/CD
+
+Render
+
+---
+
+# 🚀 Featured Projects
+
+## 🧠 Note_Mind.IO
+
+> AI SaaS Learning Platform
+
+### Highlights
+
+✅ AI Generated Notes
+
+✅ Revision Summaries
+
+✅ Interactive Diagrams
+
+✅ Practice Questions
+
+✅ Stripe Subscription
+
+✅ Credit System
+
+✅ JWT Authentication
+
+✅ Firebase Login
+
+✅ PDF Export
+
+### Tech
+
+React • Node • Express • MongoDB • Gemini API • Stripe
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+## 🎤 CogniPrep.AI
+
+> AI Mock Interview Platform
+
+### Highlights
+
+✅ AI Interview Engine
+
+✅ Voice Conversations
+
+✅ Speech Recognition
+
+✅ Speech Synthesis
+
+✅ Resume Based Questions
+
+✅ Razorpay Payments
+
+✅ PDF Reports
+
+✅ Performance Analytics
+
+### Tech
+
+React • Node • Express • MongoDB • Groq API
+
+🔗 Live Demo
+
+🔗 GitHub Repository
+
+---
+
+# 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DakshChikara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshChikara&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=DakshChikara1306&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshChikara1306&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
+
+<p align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=DakshChikara1306&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshChikara1306&theme=tokyo-night"/>
+
+</p>
+
+---
+
+# 🏆 Achievements
+
+🏅 220+ DSA Problems Solved
+
+🏅 SGPA 9.14
+
+🏅 CodeAlpha Internship
+
+🏅 Built Production AI SaaS Applications
+
+🏅 MERN + AI Developer
+
+---
+
+# 🌱 Currently Learning
+
+☁️ AWS
+
+⚡ Kubernetes
+
+🏗 System Design
+
+🤖 AI Agents
+
+🐳 Docker
+
+---
+
+# 📫 Connect With Me
+
+<p align="left">
+
+<a href="mailto:dakshchikara35@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/daksh-chikara">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/DakshChikara1306">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thanks for visiting my profile ⭐
+
+</p>
