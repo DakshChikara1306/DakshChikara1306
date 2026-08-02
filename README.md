@@ -35,165 +35,68 @@ Become an AI Software Engineer building intelligent products used by millions.
 
 ---
 
-# 🛠 Tech Stack
+# 🛠️ Tech Stack & Expertise
 
-### Languages
+### 💻 Languages
+`Java` • `JavaScript` • `Python` • `C`
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,js,python,c"/>
-</p>
+### 🎨 Frontend
+`React.js` • `Redux Toolkit` • `Tailwind CSS` • `Framer Motion` • `HTML5` • `CSS3` • `Responsive UI` • `Recharts`
 
-### Frontend
+### ⚙️ Backend
+`Node.js` • `Express.js` • `REST APIs` • `Google Gemini API` • `Groq API` • `Stripe` • `Razorpay`
 
-<p>
-<img src="https://skillicons.dev/icons?i=react,redux,tailwind,html,css"/>
-</p>
+### 🗄️ Database & Authentication
+`MongoDB` • `Mongoose ODM` • `Firebase Authentication` • `JWT` • `HTTP-Only Cookies`
 
-Framer Motion • Recharts
+### ☁️ DevOps & Tools
+`Git` • `GitHub` • `Docker` • `Kubernetes` • `Postman` • `Vercel` • `Render` • `CI/CD`
+
+### 🧠 Core Computer Science
+`Data Structures & Algorithms` • `OOP` • `DBMS` • `Operating Systems` • `Computer Networks`
+---
+
+# 🚀 Featured Production Projects
+
+### 🧠 Note_Mind.IO — Full-Stack AI SaaS Platform
+
+**Overview:**  
+Architected a production-ready AI SaaS platform powered by **Google Gemini API** that generates structured study notes, revision summaries, practice questions, interactive diagrams, and visual learning content from user prompts.
+
+**Key Features:**  
+- 💳 Implemented **Stripe-based subscription, credit management, and secure payment workflow**.
+- 🔐 Built secure authentication using **JWT, Firebase Authentication, and HTTP-Only Cookies**.
+- 📊 Added **interactive analytics dashboards with Recharts**, PDF export, and AI credit tracking.
+- ⚡ Developed a scalable MERN architecture with clean API design and responsive UI.
+
+**Tech Stack:**  
+React.js • Redux Toolkit • Node.js • Express.js • MongoDB • Gemini API • Firebase • Stripe • Tailwind CSS • Recharts
+
+**🔗 Links:**  
+🌐 **Live Demo:** https://note-mind-io-client.onrender.com/  
+📂 **GitHub Repository:** https://github.com/DakshChikara1306/Note_Mind.IO.git
 
 ---
 
-### Backend
+### 🎤 CogniPrep.AI — Full-Stack AI Mock Interview Platform
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+**Overview:**  
+Developed an AI-powered mock interview platform featuring a real-time conversational interview engine that conducts technical interviews using **Speech Recognition**, **Speech Synthesis**, and **Groq API**.
 
-REST APIs
+**Key Features:**  
+- 🤖 Built an intelligent AI interviewer capable of conducting voice-based mock interviews.
+- 🎯 Implemented **candidate skill analysis**, interview history, and performance analytics.
+- 💳 Integrated **Razorpay payments** with credit-based access control.
+- 📄 Generated downloadable PDF interview reports with AI-generated feedback.
 
-Google Gemini API
+**Tech Stack:**  
+React.js • Redux Toolkit • Node.js • Express.js • MongoDB • Groq API • Firebase • Razorpay • Tailwind CSS • Speech Recognition API • Speech Synthesis API
 
-Groq API
+**🔗 Links:**  
+🌐 **Live Demo:** https://cogniprep-ai-1.onrender.com/  
+📂 **GitHub Repository:** https://github.com/DakshChikara1306/CogniPrep.AI.git
 
-Stripe
-
-Razorpay
-
----
-
-### Database
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,firebase"/>
-</p>
-
-JWT Authentication
-
-HTTP Only Cookies
-
-Mongoose ODM
-
----
-
-### DevOps
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,postman,vercel"/>
-</p>
-
-CI/CD
-
-Render
-
----
-
-# 🚀 Featured Projects
-
-## 🧠 Note_Mind.IO
-
-> AI SaaS Learning Platform
-
-### Highlights
-
-✅ AI Generated Notes
-
-✅ Revision Summaries
-
-✅ Interactive Diagrams
-
-✅ Practice Questions
-
-✅ Stripe Subscription
-
-✅ Credit System
-
-✅ JWT Authentication
-
-✅ Firebase Login
-
-✅ PDF Export
-
-### Tech
-
-React • Node • Express • MongoDB • Gemini API • Stripe
-
-🔗 Live Demo
-
-🔗 GitHub Repository
-
----
-
-## 🎤 CogniPrep.AI
-
-> AI Mock Interview Platform
-
-### Highlights
-
-✅ AI Interview Engine
-
-✅ Voice Conversations
-
-✅ Speech Recognition
-
-✅ Speech Synthesis
-
-✅ Resume Based Questions
-
-✅ Razorpay Payments
-
-✅ PDF Reports
-
-✅ Performance Analytics
-
-### Tech
-
-React • Node • Express • MongoDB • Groq API
-
-🔗 Live Demo
-
-🔗 GitHub Repository
-
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=DakshChikara1306&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DakshChikara1306&layout=compact&theme=tokyonight"/>
-
-</p>
-
----
-
-<p align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=DakshChikara1306&theme=tokyonight"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DakshChikara1306&theme=tokyo-night"/>
-
-</p>
-
----
+------
 
 # 🏆 Achievements
 
@@ -209,19 +112,6 @@ React • Node • Express • MongoDB • Groq API
 
 ---
 
-# 🌱 Currently Learning
-
-☁️ AWS
-
-⚡ Kubernetes
-
-🏗 System Design
-
-🤖 AI Agents
-
-🐳 Docker
-
----
 
 # 📫 Connect With Me
 
