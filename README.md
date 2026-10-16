@@ -22,7 +22,7 @@ Building production-ready AI-powered web applications with scalable backend arch
 
 🎓 B.Tech CSE (AI & ML) @ Meerut Institute of Engineering & Technology
 
-📈 Current CGPA: **9.05**
+📈 Current **CGPA**: **9.05**
 
 🧠 Solved **220+ DSA Problems** across LeetCode & GeeksforGeeks
 
